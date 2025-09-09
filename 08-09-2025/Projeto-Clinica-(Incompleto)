@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto Clínica</title>
+</head>
+<body>
+
+    <main>
+        <h1>Projeto Clínica</h1>
+    </main>
+
+    <section>
+        <h2>Enunciado</h2>
+        <p>Foi contratado pela <strong>Clínica Vida+</strong>, uma rede de clínicas médicas que está digitalizando seus serviços.
+            Seu desafio é desenvolver a <strong>interface web completa</strong> do sistema de agendamento de consultas, que será acessado por pacientes em
+            computadores e celulares.</p>
+<p>A empresa deseja uma experiência moderna, acessível e interativa, com <strong>design profissional</strong>, <strong>estrutura semântica</strong>, <strong>interatividade nativa</strong>,
+    e <strong>efeitos visuais com CSS avançado</strong>. O sistema deve simular uma entrega real para o mercado de trabalho.</p>
+    </section>
+
+    <section>
+        <h2>Conteúdo da Página</h2>
+        <h3>index.html — Página Inicial</h3>
+            <ul>
+                <li>Estrutura semântica completa</li>
+                <li>Menu com links internos</li>
+                <li>Texto com tags semânticas</li>
+                <li>Lista de especialidades</li>
+                <li>Imagem com legenda</li>
+                <li>Vídeo institucional com legenda</li>
+                <li>Áudio de boas-vindas</li>
+                <li>Efeito de fade-in</li>
+                <li>Menu fixo com position: sticky</li>
+            </ul>
+    </section>
+
+        <section>
+        <h3>agendar.html — Página de Agendamento</h3>
+            <ul>
+                <li>Formulário completo com validação</li>
+                <li>Barra de progresso (<code>&lt;progress&gt;</code>)</li>
+                <li>Medidor de satisfação (<code>&lt;meter&gt;</code>)</li>
+                <li>Caixa de diálogo (<code>&lt;dialog&gt;</code>)</li>
+                <li>Sugestão automática de especialidade via JavaScript</li>
+                <li>Validação em tempo real dos campos</li>
+                <li>Confirmação animada após envio</li>
+                <li>Layout com Flexbox</li>
+            </ul>
+    </section>
+
+        <section>
+        <h3>medico.html — Perfil de Médico</h3>
+            <ul>
+                <li>Foto com legenda</li>
+                <li>Tabela de horários</li>
+                <li>Citação de paciente</li>
+                <li>Formulário de contato</li>
+                <li>Scroll reveal com animação</li>
+                <li>Card com efeito glassmorphism</li>
+            </ul>
+    </section>
+
+        <section>
+        <h3>contato.html — Contato e Localização</h3>
+            <ul>
+                <li>Endereço com (<code>&lt;address&gt;</code>)</li>
+                <li>Mapa com (<code>&lt;iframe&gt;</code>)</li>
+                <li>Horário com (<code>&lt;time&gt;</code>)</li>
+                <li>Caixa de diálogo (<code>&lt;dialog&gt;</code>)</li>
+                <li>Lista de unidades com (<code>&lt;dl&gt;</code>)</li>
+                <li>Dark mode com CSS</li>
+                <li>Imagem com filtro CSS</li>
+            </ul>
+    </section>
+
+        <section>
+        <h3>faq.html — Perguntas Frequentes</h3>
+            <ul>
+                <li>Blocos interativos com (<code>&lt;details&gt;</code>) e (<code>&lt;summary&gt;</code>)</li>
+                <li>Lista ordenada com etapas</li>
+                <li>Comando de teclado com (<code>&lt;kbd&gt;</code>) e saída com (<code>&lt;samp&gt;</code>)</li>
+                <li>Efeito de hover e animação de entrada</li>
+            </ul>
+    </section>
+
+</body>
+</html>
